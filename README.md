@@ -93,6 +93,13 @@
  
 <h3>Demissões por tipo movimentação</h3>
 
+<h4>Quantidade de demissões por tipo</h4>
+<div>
+  <img src="/Quantidade de demissões por tipo durante o ano de 2020.png" alt="Quantidade de demissões por tipo durante o ano de 2020">
+</div>
+
+
+
 <br>
  
 <h3>Causas de demissão pelos empregadores</h3>
