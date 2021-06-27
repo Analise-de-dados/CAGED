@@ -84,6 +84,11 @@
   <img src="/Admissão por gênero no período da pandemia.png" alt="Admissão por gênero no período da pandemia">
 </div>
 
+<h4>Demissão por gênero no período da pandemia</h4>
+<div>
+  <img src="/Demissões por gênero no período da pandemia.png" alt="Demissão por gênero no período da pandemia">
+</div>
+
 <br>
  
 <h3>Demissões por tipo movimentação</h3>
