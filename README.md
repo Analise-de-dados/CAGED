@@ -79,6 +79,11 @@
   
 <h3>Admissões e demissões por gênero no período da pandemia</h3>
 
+<h4>Admissão por gênero no período da pandemia</h4>
+<div>
+  <img src="/Admissão por gênero no período da pandemia.png" alt="Admissão por gênero no período da pandemia">
+</div>
+
 <br>
  
 <h3>Demissões por tipo movimentação</h3>
