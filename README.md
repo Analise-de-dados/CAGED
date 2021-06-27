@@ -147,7 +147,7 @@
  <p align="justify">Aqui nós temos um tutorial onde mostramos como conseguimos os dados do CAGED que nos proporcionaram todos os dados que precisamos para o desenvolvimento principal do trabalho:
  
  <div align="center">
-   <img src="/teste.gif" alt="teste">
+   <img src="Vídeos/teste.gif" alt="teste">
  </div>
  
  <br>
