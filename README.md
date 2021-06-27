@@ -70,10 +70,19 @@
   
 <h3>Estatísticas de consumo após o aumento ou diminuição do emprego e desemprego</h3>
 
-<h4>Consumo das famílias em relação ao emprego e desemprego</h4>
+<h4>Consumo das famílias em relação ao emprego</h4>
 <div>
-  <img src="/Consumo das famílias em relação ao emprego em 2020.png" alt="Consumo das famílias em relação ao emprego no ano de 2020">
+  <img src="Consumo/Consumo das famílias em relação ao emprego em 2020.png" alt="Consumo das famílias em relação ao emprego no ano de 2020">
 </div>
+
+<br>
+
+<h4>Consumo das famílias em relação ao desemprego</h4>
+<div>
+  <img src="Consumo/Consumo das famílias em relação ao desemprego em 2020.png" alt="Consumo das famílias em relação ao desemprego no ano de 2020">
+</div>
+
+
 
 <br>
   
