@@ -90,12 +90,12 @@
 
 <h4>Admissão por gênero no período da pandemia</h4>
 <div>
-  <img src="/Admissão por gênero no período da pandemia.png" alt="Admissão por gênero no período da pandemia">
+  <img src="admissao_demissao/Admissão por gênero no período da pandemia.png" alt="Admissão por gênero no período da pandemia">
 </div>
 
 <h4>Demissão por gênero no período da pandemia</h4>
 <div>
-  <img src="/Demissões por gênero no período da pandemia.png" alt="Demissão por gênero no período da pandemia">
+  <img src="admissao_demissao/Demissões por gênero no período da pandemia.png" alt="Demissão por gênero no período da pandemia">
 </div>
 
 <br>
@@ -104,7 +104,7 @@
 
 <h4>Quantidade de demissões por tipo</h4>
 <div>
-  <img src="/Quantidade de demissões por tipo durante o ano de 2020.png" alt="Quantidade de demissões por tipo durante o ano de 2020">
+  <img src="admissao_demissao/Quantidade de demissões por tipo durante o ano de 2020.png" alt="Quantidade de demissões por tipo durante o ano de 2020">
 </div>
 
 
